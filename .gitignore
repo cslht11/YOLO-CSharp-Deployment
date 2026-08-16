@@ -1,0 +1,36 @@
+# Visual Studio 缓存与用户配置
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 构建输出
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.tlog
+
+# NuGet 包缓存
+packages/
+
+# 大型模型权重（如需纳入版本库，请改用 Git LFS）
+*.onnx
+*.engine
+*.trt
+*.pt
+*.pth
+*.weights
+
+# 大型媒体文件（测试视频等，如需纳入请改用 Git LFS）
+*.mp4
+*.avi
+*.mov
+*.mkv

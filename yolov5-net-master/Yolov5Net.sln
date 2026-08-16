@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yolov5Net.Scorer", "src\Yolov5Net.Scorer\Yolov5Net.Scorer.csproj", "{B106518C-9466-4E4E-B199-E7D6E948FC1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YOLO_WinformDemo", "YOLO_WinformDemo\YOLO_WinformDemo.csproj", "{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yolov5Net.App", "src\Yolov5Net.App\Yolov5Net.App.csproj", "{22C04730-E71F-471E-AD0C-3A476A75B67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Debug|x64.ActiveCfg = Debug|x64
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Debug|x64.Build.0 = Debug|x64
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Release|x64.ActiveCfg = Release|x64
+		{B106518C-9466-4E4E-B199-E7D6E948FC1E}.Release|x64.Build.0 = Release|x64
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Debug|x64.ActiveCfg = Debug|x64
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Debug|x64.Build.0 = Debug|x64
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Release|x64.ActiveCfg = Release|x64
+		{4C2811F0-2B6B-4D86-B66B-B6542D0C5DCF}.Release|x64.Build.0 = Release|x64
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Debug|x64.ActiveCfg = Debug|x64
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Debug|x64.Build.0 = Debug|x64
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Release|x64.ActiveCfg = Release|x64
+		{22C04730-E71F-471E-AD0C-3A476A75B67C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4454E5-ECCA-496F-9E93-B0A6A91BA11E}
+	EndGlobalSection
+EndGlobal
