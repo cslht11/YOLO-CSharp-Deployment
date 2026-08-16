@@ -34,3 +34,23 @@ packages/
 *.avi
 *.mov
 *.mkv
+
+# 图片文件
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.svg
+*.tif
+*.tiff
+*.webp
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLO 本地数据集与训练产物
+datasets/
+runs/
