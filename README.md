@@ -60,8 +60,8 @@ cd NetOnnx
 
 ## 相关项目
 
-- YOLO 训练源码集合：https://github.com/chai1110/YOLO-Project-Collection
-- 图像匹配与分割集合：https://github.com/chai1110/Image-Matching-Collection
+- YOLO 训练源码集合：https://github.com/cslht11/YOLO-Project-Collection
+- 图像匹配与分割集合：https://github.com/cslht11/Image-Matching-Collection
 
 ## 许可证
 
@@ -69,5 +69,5 @@ cd NetOnnx
 
 ## 联系方式
 
-- GitHub: [@chai1110](https://github.com/chai1110)
-- Email: chai011379@gmail.com
+- GitHub: [@cslht11](https://github.com/cslht11)
+- Email: heitieya@163.com
